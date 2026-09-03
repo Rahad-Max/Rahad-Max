@@ -1,104 +1,131 @@
-# Hi, I'm Rahad 👋
+# 👋 Hi, I'm Rahad
 
-### Full-Stack Developer | Backend Engineer | AI/ML Enthusiast
+### Full-Stack Developer • Backend Engineer • AI/ML Enthusiast
 
-I’m a Computer Science student passionate about building **scalable web applications, backend systems, and intelligent software solutions**.
+I’m a Computer Science student passionate about building **real-world software solutions**, scalable backend systems, and intelligent applications.
 
-I enjoy turning real-world problems into practical software — from full-stack platforms and service management systems to machine learning and NLP applications.
+I enjoy working across the stack — from designing responsive interfaces and REST APIs to database architecture and machine learning applications.
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-* 🎓 Computer Science student
-* 💻 Focused on **Full-Stack & Backend Development**
-* 🌱 Currently improving my skills in **Spring Boot, React.js & System Design**
-* 🤖 Exploring **Machine Learning, NLP & Explainable AI**
-* 🗄️ Interested in **Database Design & Backend Architecture**
-* 🔧 Love building practical, real-world software projects
-* 📚 Always learning and experimenting with new technologies
+* 🎓 Computer Science Student
+* 💻 Focused on Full-Stack & Backend Development
+* ⚙️ Building applications with Java, Spring Boot, Node.js & React
+* 🗄️ Interested in database architecture and API development
+* 🤖 Exploring Machine Learning, NLP & Explainable AI
+* 🔐 Interested in secure and scalable software systems
+* 🚀 Passionate about solving real-world problems through software
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,python,cpp,c,html,css" />
+<img src="https://skillicons.dev/icons?i=java,javascript,python,cpp,c,html,css" />
 </p>
 
-### 🌐 Frontend
+### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 </p>
 
-### ⚙️ Backend
+### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
 </p>
 
-### 🗄️ Database
+### Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### 🤖 AI / Machine Learning
-
-* Machine Learning
-* Natural Language Processing
-* Text Classification
-* Explainable AI
-* Data Preprocessing
-* Model Evaluation
-* Scikit-learn
-* Pandas
-* NumPy
-
-### 🔧 Tools & Platforms
+### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 </p>
+
+### AI / Machine Learning
+
+`Python` `Pandas` `NumPy` `Scikit-learn` `NLP` `Text Classification` `Explainable AI`
 
 ---
 
-## ⭐ Featured Projects
+# 🚀 Featured Projects
 
-### 🚀 NovaHire
+## 💼 NovaHire
 
-A modern recruitment/job platform designed to improve the hiring process by connecting employers and job seekers through a structured digital platform.
+A recruitment-focused platform designed to improve the connection between employers and job seekers.
 
 **Focus:** Full-Stack Development • Recruitment • Backend • Database
 
-🔗 [View Repository](https://github.com/Rahad-Max/NovaHire)
+🔗 **Repository:**
+https://github.com/Rahad-Max/NovaHire
 
 ---
 
-### 🚨 Need Emergency Service Platform
+## 🚨 Emergency Service Platform
 
-A platform designed to help users find and access emergency services more efficiently.
+A service platform focused on helping users access emergency-related services efficiently.
 
-**Focus:** Web Development • Service Platform • Backend • Database
+**Focus:** Full-Stack Development • Service Management • Backend • Database
 
-🔗 [View Repository](https://github.com/Rahad-Max/Need-Emergency-service-platform)
-
----
-
-### 🤖 Spam Detection
-
-A machine-learning based project for detecting spam messages using Natural Language Processing and classification techniques.
-
-**Focus:** Machine Learning • NLP • Text Classification • Python
-
-🔗 [View Repository](https://github.com/Saiful-alam105/spam-detection)
+🔗 **Repository:**
+https://github.com/Rahad-Max/Need-Emergency-service-platform
 
 ---
 
-## 📊 GitHub Statistics
+## 🤖 Spam Detection
+
+A machine-learning project focused on detecting spam using text classification and Natural Language Processing techniques.
+
+**Focus:** Machine Learning • NLP • Python • Text Classification
+
+🔗 **Repository:**
+https://github.com/Saiful-alam105/spam-detection
+
+---
+
+# 🎯 What I'm Currently Working On
+
+```text
+Full-Stack Development
+        ↓
+Backend Engineering
+        ↓
+Spring Boot & REST APIs
+        ↓
+Database Architecture
+        ↓
+Machine Learning & NLP
+        ↓
+Explainable AI
+```
+
+---
+
+# 📚 Areas of Interest
+
+* Full-Stack Web Development
+* Backend Engineering
+* REST API Development
+* Database Design
+* Software Architecture
+* Machine Learning
+* Natural Language Processing
+* Explainable AI
+* Intelligent Software Systems
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rahad-Max&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
@@ -107,50 +134,32 @@ A machine-learning based project for detecting spam messages using Natural Langu
 
 ---
 
-## 🔥 Contribution Streak
+# 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rahad-Max&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Rahad-Max&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahad-Max&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahad-Max&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## 🎯 Current Focus
-
-```text
-Full-Stack Development
-        ↓
-Backend Engineering
-        ↓
-Spring Boot + REST APIs
-        ↓
-Database Architecture
-        ↓
-Machine Learning & NLP
-        ↓
-Explainable AI Research
-```
-
----
-
-## 🤝 Let's Connect
+# 🤝 Let's Connect
 
 <p>
-  <a href="https://github.com/Rahad-Max">
-    <img src="https://img.shields.io/badge/GitHub-Rahad--Max-181717?style=for-the-badge&logo=github"/>
-  </a>
+<a href="https://github.com/Rahad-Max">
+<img src="https://img.shields.io/badge/GitHub-Rahad--Max-181717?style=for-the-badge&logo=github"/>
+</a>
 </p>
 
 ---
 
-### 💡 "Build things that solve real problems."
+### 💡 Build. Learn. Improve. Repeat.
 
-Thanks for visiting my profile! ⭐
+⭐ Thanks for visiting my profile!
