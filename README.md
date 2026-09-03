@@ -156,8 +156,9 @@ Explainable AI
 <a href="https://github.com/Rahad-Max">
 <img src="https://img.shields.io/badge/GitHub-Rahad--Max-181717?style=for-the-badge&logo=github"/>
 </a>
+       
 </p>
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=google-chrome&logoColor=white)]([https://YOUR_PORTFOLIO_URL](https://rahadportfolio-beta.vercel.app/))
 ---
 
 ### 💡 Build. Learn. Improve. Repeat.
